@@ -29,3 +29,7 @@
 ## Project SQL_bootcamp
 
 - тут 12 проектов для начального понимания [SQL](https://github.com/Ta1de/SQLbootcamp)
+
+## Project C++
+
+- проект [MatrixPlus](https://github.com/Ta1de/MatrixPlus) создания бибилиотеки matrix_oop.h на основе matrix.h
