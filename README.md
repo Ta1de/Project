@@ -24,4 +24,8 @@
 
 - проект [SimpleDocker](https://github.com/Ta1de/SimpleDocker)
 
-- проект [CICD](https://github.com/Ta1de/CICD.git)
+- проект [CICD](https://github.com/Ta1de/CICD)
+
+## Project SQL_bootcamp
+
+- тут 12 проектов для начального понимания [SQL](https://github.com/Ta1de/SQLbootcamp)
