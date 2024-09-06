@@ -33,3 +33,6 @@
 ## Project C++
 
 - проект [MatrixPlus](https://github.com/Ta1de/MatrixPlus) создания бибилиотеки matrix_oop.h на основе matrix.h
+
+## Other
+- полезные или нужные дополнения [Other](https://github.com/Ta1de/Other)
