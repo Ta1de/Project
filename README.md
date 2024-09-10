@@ -12,7 +12,7 @@
 
 - проект [Matrix](https://github.com/Ta1de/Matrix) повторяет бибилиотеку matrix.h
 
-- проект [BrickGame1]() повторяет игру Tetris
+- проект [BrickGame1](https://github.com/Ta1de/Tetris) повторяет игру Tetris
 
 - проект [3dViewer]() это разработка программы c аналогичным названием
 
