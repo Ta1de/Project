@@ -1,8 +1,8 @@
 # Project
 
-1. Project C
+## Project C
 
-    - проект [SimpleBashUtils](https://github.com/Ta1de/SimpleBashUtils) повторяет стандартные функции cat и  grep
+- проект [SimpleBashUtils](https://github.com/Ta1de/SimpleBashUtils) повторяет стандартные функции cat и  grep
 
 - проект [StringPlus](https://github.com/Ta1de/StringPlus) повторяет стандартную бибилиотеку string.h
 
