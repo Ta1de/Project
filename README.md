@@ -15,7 +15,7 @@
 - проект [BrickGame1](https://github.com/Ta1de/Tetris) повторяет игру Tetris
 
 - проект [3dViewer]() это разработка программы c аналогичным названием [в разработке]
-- ```diff
+```diff
 + this text is highlighted in green
 - this text is highlighted in red
 ```
