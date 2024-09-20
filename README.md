@@ -1,9 +1,3 @@
-<style>
-  .in-development {
-    color: #FF0000; /* Red color for in-development text */
-  }
-</style>
-
 # Project
 
 ## Project C
@@ -20,7 +14,7 @@
 
 - проект [BrickGame1](https://github.com/Ta1de/Tetris) повторяет игру Tetris
 
-- проект [3dViewer]() это разработка программы c аналогичным названием <span class="in-development">[в разработке]</span>
+- проект [3dViewer]() это разработка программы c аналогичным названием [в разработке]
 
 ## Project DevOps
 
@@ -39,7 +33,7 @@
 ## Project C++
 
 - проект [MatrixPlus](https://github.com/Ta1de/MatrixPlus) создания бибилиотеки matrix_oop.h на основе matrix.h
-- проект [Conteiner]() создания бибилиотеки s21_containers.h и s21_containersplus.h <span class="in-development">[в разработке]</span>
+- проект [Conteiner]() создания бибилиотеки s21_containers.h и s21_containersplus.h [в разработке]
 
 ## Other
 - полезные или нужные дополнения [Other](https://github.com/Ta1de/Other)
