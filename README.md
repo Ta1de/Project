@@ -1,3 +1,9 @@
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
 # Project
 
 ## Project C
@@ -13,8 +19,8 @@
 - проект [Matrix](https://github.com/Ta1de/Matrix) повторяет бибилиотеку matrix.h
 
 - проект [BrickGame1](https://github.com/Ta1de/Tetris) повторяет игру Tetris
-<span style="color:blue">some *blue* text</span>.
-- проект [3dViewer]() это разработка программы c аналогичным названием [в разработке]
+
+- проект [3dViewer]() это разработка программы c аналогичным названием <r>[в разработке]</r>
 
 ## Project DevOps
 
