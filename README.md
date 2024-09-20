@@ -1,6 +1,7 @@
 # Project
 
 ## Project C
+---
 
 - проект [SimpleBashUtils](https://github.com/Ta1de/SimpleBashUtils) повторяет стандартные функции cat и  grep
 
