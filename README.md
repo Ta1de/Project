@@ -14,7 +14,7 @@
 
 - [x] проект [BrickGame1](https://github.com/Ta1de/Tetris) повторяет игру Tetris
 
-- [ ] проект [3dViewer]() это разработка программы c аналогичным названием <font color="#FF0000">[в разработке]</font>
+- [ ] проект [3dViewer]() это разработка программы c аналогичным названием <span style="color:red">[в разработке]</span>
 ## Project DevOps
 
 - [x] проект [Linux](https://github.com/Ta1de/Linux)
