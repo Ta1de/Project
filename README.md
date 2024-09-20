@@ -1,8 +1,8 @@
 # Project
 
-## Project C
+1. Project C
 
-- проект [SimpleBashUtils](https://github.com/Ta1de/SimpleBashUtils) повторяет стандартные функции cat и  grep
+    - проект [SimpleBashUtils](https://github.com/Ta1de/SimpleBashUtils) повторяет стандартные функции cat и  grep
 
 - проект [StringPlus](https://github.com/Ta1de/StringPlus) повторяет стандартную бибилиотеку string.h
 
@@ -14,7 +14,7 @@
 
 - проект [BrickGame1](https://github.com/Ta1de/Tetris) повторяет игру Tetris
 
-- проект [3dViewer]() это разработка программы c аналогичным названием [в разработке]
+- проект [3dViewer]() это разработка программы c аналогичным названием ***[в разработке]***
 
 ## Project DevOps
 
@@ -33,7 +33,7 @@
 ## Project C++
 
 - проект [MatrixPlus](https://github.com/Ta1de/MatrixPlus) создания бибилиотеки matrix_oop.h на основе matrix.h
-- проект [Conteiner]() создания бибилиотеки s21_containers.h и s21_containersplus.h [в разработке]
+- проект [Conteiner]() создания бибилиотеки s21_containers.h и s21_containersplus.h ***[в разработке]***
 
 ## Other
 - полезные или нужные дополнения [Other](https://github.com/Ta1de/Other)
