@@ -1,9 +1,3 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
 # Project
 
 ## Project C
@@ -20,7 +14,7 @@ g { color: Green }
 
 - проект [BrickGame1](https://github.com/Ta1de/Tetris) повторяет игру Tetris
 
-- проект [3dViewer]() это разработка программы c аналогичным названием <r>[в разработке]</r>
+- проект [3dViewer]() это разработка программы c аналогичным названием [в разработке]+5V
 
 ## Project DevOps
 
