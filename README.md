@@ -36,7 +36,7 @@
 
 - [x] проект [MatrixPlus](https://github.com/Ta1de/MatrixPlus) создания бибилиотеки matrix_oop.h на основе matrix.h
 
-- [ ] проект [Conteiner](https://github.com/Ta1de/Conteiner) создания бибилиотеки s21_containers.h и s21_containersplus.h ***[в разработке]***
+- [X] проект [Conteiner](https://github.com/Ta1de/Conteiner) создания бибилиотеки s21_containers.h и s21_containersplus.h
 
 - [ ] проект [BrickGame2](https://github.com/Ta1de/Snake) повторяет игру змейка ***[в разработке]***
 
